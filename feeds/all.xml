@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+  <title>All topics — newsbot</title>
+  <link>https://slophouse-cc.github.io/newsbot/</link>
+  <description>All newsbot digests, merged chronologically.</description>
+  <language>en</language>
+  <lastBuildDate>Sun, 04 Oct 2026 23:59:00 GMT</lastBuildDate>
+  <atom:link rel="self" type="application/rss+xml" href="https://slophouse-cc.github.io/newsbot/feeds/all.xml"/>
+  <generator>newsbot</generator>
+  <ttl>60</ttl>
+    <item>
+      <title>From CUDA to MLX: K-Search Translates Decades of Kernel Expertise to Apple Silicon</title>
+      <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-04.html#s-744cfb89b4dd</link>
+      <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-04.html#s-744cfb89b4dd</guid>
+      <pubDate>Wed, 29 Jul 2026 09:00:00 GMT</pubDate>
+      <description>&lt;p&gt;BAIR researchers present K-Search, a system that maps CUDA optimization knowledge onto architecture-native MLX strategies for Apple Silicon rather than copying kernels instruction-for-instruction. The work argues that GPU kernel expertise accumulated over years of CUDA development can be systematically translated into a different accelerator ecosystem, offering a path to port high-performance ML kernels to Apple hardware without rebuilding optimization intuition from scratch.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search&quot; rel=&quot;noopener&quot;&gt;bair.berkeley.edu&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction</title>
+      <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-04.html#s-226026224cdb</link>
+      <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-04.html#s-226026224cdb</guid>
+      <pubDate>Sun, 26 Jul 2026 09:00:00 GMT</pubDate>
+      <description>&lt;p&gt;A BAIR post introduces ABBEL, an approach that trains large language models to revise their beliefs as new evidence arrives, targeting efficient long-horizon interaction. Rather than re-deriving conclusions from full context at each step, the method teaches models to maintain and update an explicit belief state, which the authors position as key to keeping multi-turn agents accurate and computationally tractable over extended tasks.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://bair.berkeley.edu/blog/2026/07/26/abbel&quot; rel=&quot;noopener&quot;&gt;bair.berkeley.edu&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Intelligence is Free, Now What? Data Systems for, of, and by Agents</title>
+      <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-04.html#s-47d89a541c7b</link>
+      <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-04.html#s-47d89a541c7b</guid>
+      <pubDate>Tue, 07 Jul 2026 09:00:00 GMT</pubDate>
+      <description>&lt;p&gt;As GPT-4-class capabilities become dramatically cheaper, a BAIR essay asks what changes when intelligence is effectively free. The authors argue the bottleneck shifts to data systems — infrastructure built for, of, and by AI agents — and sketch how agent-driven workloads will reshape database design, query patterns, and the economics of software, echoing Lincoln&amp;#39;s framing of systems of, by, and for their users.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://bair.berkeley.edu/blog/2026/07/07/intelligence-is-free-now-what&quot; rel=&quot;noopener&quot;&gt;bair.berkeley.edu&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>2026 BAIR Graduate Showcase Celebrates the Lab&#39;s New Ph.D. Class</title>
+      <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-04.html#s-295c66d67784</link>
+      <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-04.html#s-295c66d67784</guid>
+      <pubDate>Wed, 01 Jul 2026 09:00:00 GMT</pubDate>
+      <description>&lt;p&gt;The Berkeley Artificial Intelligence Research Lab congratulates its class of 2026 Ph.D. graduates, highlighting a group whose curiosity, creativity, and persistence shaped the lab&amp;#39;s research output. The annual showcase spotlights the students&amp;#39; contributions across AI subfields as they move on to academic and industry positions, marking the lab&amp;#39;s yearly milestone in training the next generation of AI researchers.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://bair.berkeley.edu/blog/2026/07/01/grads-2026&quot; rel=&quot;noopener&quot;&gt;bair.berkeley.edu&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Adaptive Parallel Reasoning: A New Paradigm for Efficient Inference Scaling</title>
+      <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-04.html#s-74c2d9384314</link>
+      <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-04.html#s-74c2d9384314</guid>
+      <pubDate>Fri, 08 May 2026 09:00:00 GMT</pubDate>
+      <description>&lt;p&gt;BAIR researchers propose Adaptive Parallel Reasoning (APR), which scales inference by running reasoning branches in parallel and allocating compute adaptively rather than uniformly. The approach aims to capture the accuracy gains of test-time scaling while avoiding the cost of brute-force sequential chains, positioning parallel, budget-aware reasoning as the next paradigm for efficient inference.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning&quot; rel=&quot;noopener&quot;&gt;bair.berkeley.edu&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Gradient-based Planning for World Models at Longer Horizons</title>
+      <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-04.html#s-8d7af329ff25</link>
+      <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-04.html#s-8d7af329ff25</guid>
+      <pubDate>Mon, 20 Apr 2026 09:00:00 GMT</pubDate>
+      <description>&lt;p&gt;The GRASP work from BAIR tackles planning with learned world models over longer horizons using gradient-based optimization. The authors report results tables comparing their method against baselines, addressing a central weakness of model-based reinforcement learning: plans that degrade as the rollout horizon grows, which limits real-world deployment of world-model agents.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://bair.berkeley.edu/blog/2026/04/20/grasp&quot; rel=&quot;noopener&quot;&gt;bair.berkeley.edu&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Identifying Interactions at Scale for LLMs</title>
+      <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-04.html#s-cdccc1ac3a9b</link>
+      <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-04.html#s-cdccc1ac3a9b</guid>
+      <pubDate>Fri, 13 Mar 2026 09:00:00 GMT</pubDate>
+      <description>&lt;p&gt;BAIR presents SPEX, a method for identifying interactions at scale inside large language models. Understanding the behavior of complex ML systems remains a critical open challenge, and the work contributes to interpretability research by finding and characterizing the interactions that shape LLM outputs, offering a more scalable route to mechanistic understanding of large models.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://bair.berkeley.edu/blog/2026/03/13/spex&quot; rel=&quot;noopener&quot;&gt;bair.berkeley.edu&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Information-Driven Design of Imaging Systems</title>
+      <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-04.html#s-fdfd3d815dab</link>
+      <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-04.html#s-fdfd3d815dab</guid>
+      <pubDate>Sat, 10 Jan 2026 09:00:00 GMT</pubDate>
+      <description>&lt;p&gt;BAIR researchers describe an information-theoretic approach to co-designing imaging systems, where an encoder (the optical system) maps objects to noiseless images that noise then corrupts into measurements. Their information estimator uses only the noisy measurements and a noise model to quantify how well a design captures the scene, enabling optics and reconstruction algorithms to be optimized jointly rather than separately.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging&quot; rel=&quot;noopener&quot;&gt;bair.berkeley.edu&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>RL without TD Learning: A Divide-and-Conquer Alternative</title>
+      <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-04.html#s-092461451a5e</link>
+      <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-04.html#s-092461451a5e</guid>
+      <pubDate>Sat, 01 Nov 2025 09:00:00 GMT</pubDate>
+      <description>&lt;p&gt;A BAIR post introduces a reinforcement learning algorithm built on divide and conquer rather than temporal-difference learning. Unlike traditional TD methods, which bootstrap value estimates from successive states, the proposed paradigm decomposes the problem and avoids bootstrapping altogether, offering an alternative foundation for credit assignment in sequential decision making.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning&quot; rel=&quot;noopener&quot;&gt;bair.berkeley.edu&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>What Exactly Does word2vec Learn? A Theoretical Account</title>
+      <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-04.html#s-f9fe76b83ee8</link>
+      <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-04.html#s-f9fe76b83ee8</guid>
+      <pubDate>Mon, 01 Sep 2025 09:00:00 GMT</pubDate>
+      <description>&lt;p&gt;BAIR researchers revisit word2vec to explain precisely what the algorithm learns and how. They frame the question as understanding representation learning in a minimal yet interesting language modeling task, using theory to characterize the embeddings that emerge from the classic method — work that connects foundational NLP results to modern questions about what language models represent internally.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory&quot; rel=&quot;noopener&quot;&gt;bair.berkeley.edu&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

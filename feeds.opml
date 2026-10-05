@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>newsbot feeds</title>
+    <dateCreated>Sun, 04 Oct 2026 23:59:00 GMT</dateCreated>
+  </head>
+  <body>
+  <outline type="rss" text="Artificial Intelligence" xmlUrl="https://slophouse-cc.github.io/newsbot/feeds/ai.xml" htmlUrl="https://slophouse-cc.github.io/newsbot/topics/ai/"/>
+  <outline type="rss" text="All topics — newsbot" xmlUrl="https://slophouse-cc.github.io/newsbot/feeds/all.xml" htmlUrl="https://slophouse-cc.github.io/newsbot/"/>
+  </body>
+</opml>
