@@ -5,23 +5,212 @@
   <link>https://slophouse-cc.github.io/newsbot/</link>
   <description>All newsbot digests, merged chronologically.</description>
   <language>en</language>
-  <lastBuildDate>Mon, 05 Oct 2026 00:31:35 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 05 Oct 2026 01:40:53 GMT</lastBuildDate>
   <atom:link rel="self" type="application/rss+xml" href="https://slophouse-cc.github.io/newsbot/feeds/all.xml"/>
   <generator>newsbot</generator>
   <ttl>60</ttl>
+    <item>
+      <title>LTX-2.5 generates a 10-second video from an image in 6.8 seconds on Nvidia superchips — with open weights</title>
+      <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-39f3f44e87a5</link>
+      <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-39f3f44e87a5</guid>
+      <pubDate>Mon, 05 Oct 2026 01:40:18 GMT</pubDate>
+      <description>&lt;p&gt;LTX, the open world model company spun out of Lightricks, released LTX-2.5, its latest open-weights video and world model. The company says it can generate a 10-second video from a still image in just 6.8 seconds on Nvidia superchips. The speed claim, combined with open weights, sharpens competition in generative video where frontier systems have largely been closed.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://venturebeat.com/technology/ltx-2-5-can-generate-a-10-second-ai-video-from-an-image-in-just-6-8-seconds-on-nvidia-superchips-and-its-open-weights&quot; rel=&quot;noopener&quot;&gt;venturebeat.com&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>LTX-2.5 open-weight model targets video and robotics</title>
+      <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-a01b952df6f7</link>
+      <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-a01b952df6f7</guid>
+      <pubDate>Mon, 05 Oct 2026 01:40:18 GMT</pubDate>
+      <description>&lt;p&gt;LTX released LTX-2.5, the newest version of its open &amp;#39;world&amp;#39; model, aimed at video generation and robotics applications. The release lands amid ongoing debate over the merits and risks of open-weight AI, with developers continuing to publish capable models regardless. It positions open weights as a competitive option in the video and embodied-AI space, not just in text.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.cnet.com/tech/services-and-software/ltx-2-5-ai-open-weights-video-robotics-news&quot; rel=&quot;noopener&quot;&gt;www.cnet.com&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Meta&#39;s Muse agent wants to run your daily errands — and researchers see problems</title>
+      <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-8f0743656161</link>
+      <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-8f0743656161</guid>
+      <pubDate>Mon, 05 Oct 2026 01:40:03 GMT</pubDate>
+      <description>&lt;p&gt;Meta is encouraging users to hand everyday tasks such as booking flights and shopping to its new AI &amp;#39;agent,&amp;#39; Muse. A critical analysis argues the pitch raises familiar concerns: opaque decision-making, data collection across personal tasks, and the risk of agents acting on a user&amp;#39;s behalf in ways that are hard to audit or reverse. The piece frames Muse as emblematic of the industry&amp;#39;s rush to make agents ambient rather than on-demand.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://theconversation.com/meta-wants-people-to-use-ai-agents-to-do-daily-tasks-for-them-heres-why-thats-a-problem-292962&quot; rel=&quot;noopener&quot;&gt;theconversation.com&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Meta, OpenAI and Uber teach agents to speak up first — the harder question is when to stay quiet</title>
+      <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-dd4fc4cf9639</link>
+      <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-dd4fc4cf9639</guid>
+      <pubDate>Mon, 05 Oct 2026 01:40:03 GMT</pubDate>
+      <description>&lt;p&gt;New work from Meta, OpenAI and Uber focuses on proactive agents that initiate contact instead of waiting for a user query, shifting AI from request-response toward timely interruption. The analysis highlights the unresolved design problem: deciding when an agent should surface something versus remain silent, since over-eager agents risk becoming noise. It suggests interruption policy, not raw capability, will determine whether proactive agents are useful.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.marktechpost.com/2026/10/03/meta-openai-and-uber-just-taught-ai-agents-to-talk-first-what-about-when-to-stay-quiet&quot; rel=&quot;noopener&quot;&gt;www.marktechpost.com&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI unveils &#39;Dots,&#39; an always-on personalized AI agent that keeps working after you log off</title>
+      <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-e6b11e098704</link>
+      <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-e6b11e098704</guid>
+      <pubDate>Mon, 05 Oct 2026 01:40:03 GMT</pubDate>
+      <description>&lt;p&gt;OpenAI announced Dots, a new class of personalized AI agent positioned as its answer to Meta&amp;#39;s Muse. According to early coverage, Dots can run multiple tasks on a user&amp;#39;s behalf, keep working after the user leaves, carry context across tools such as Slack and Teams, and request approval before taking sensitive actions. The launch pushes ChatGPT further from a chat interface toward a persistent, background assistant that acts rather than just answers.&lt;/p&gt;&lt;p&gt;Corroborated by 2 sources.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://lifehacker.com/tech/openai-just-announced-dots-its-take-on-metas-muse&quot; rel=&quot;noopener&quot;&gt;lifehacker.com&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.androidauthority.com/openai-dots-chatgpt-always-on-ai-agents-3717020&quot; rel=&quot;noopener&quot;&gt;www.androidauthority.com&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>IBM makes its Bob agentic development platform self-hostable, including air-gapped environments</title>
+      <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-3ad5c9d952d9</link>
+      <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-3ad5c9d952d9</guid>
+      <pubDate>Mon, 05 Oct 2026 01:39:55 GMT</pubDate>
+      <description>&lt;p&gt;IBM announced self-hosted deployment for IBM Bob, its agentic software development platform, letting organizations run it on-premises, in private or sovereign clouds, and in fully air-gapped environments. The move targets enterprise demands for AI sovereignty and governance, keeping source code and data inside customer boundaries. IBM shares rose following the announcement.&lt;/p&gt;&lt;p&gt;Corroborated by 5 sources.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://finance.yahoo.com/technology/ai/articles/ibm-introduces-self-hosted-deployment-040100875.html&quot; rel=&quot;noopener&quot;&gt;finance.yahoo.com&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://note.com/kazuhiko_kawai/n/n0d5ba70c080e?hl=en&quot; rel=&quot;noopener&quot;&gt;note.com&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://siliconangle.com/2026/10/01/ibm-allows-on-prem-deployment-of-its-bob-agentic-development-platform&quot; rel=&quot;noopener&quot;&gt;siliconangle.com&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.marktechpost.com/2026/10/02/ibm-brings-bob-to-self-hosted-and-air-gapped-environments&quot; rel=&quot;noopener&quot;&gt;www.marktechpost.com&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.msn.com/en-us/news/other/ibm-stock-rises-after-unveiling-self-hosted-deployment-for-ibm-bob/ar-AA2dlZJy&quot; rel=&quot;noopener&quot;&gt;www.msn.com&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Prime Intellect&#39;s recursive language model treats long prompts as an external environment</title>
+      <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-7a39882ae0d1</link>
+      <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-7a39882ae0d1</guid>
+      <pubDate>Mon, 05 Oct 2026 01:39:30 GMT</pubDate>
+      <description>&lt;p&gt;Recursive Language Models (RLMs) are described as a general inference paradigm that treats long prompts as part of an external environment rather than a fixed context. The model can programmatically examine, decompose and recursively process that environment, allowing it to work over inputs far larger than a single context window. The approach is another route to the same problem context compression targets: making long-horizon agent workloads tractable.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.nextbigfuture.com/2026/08/prime-intellect-recursive-language-model.html&quot; rel=&quot;noopener&quot;&gt;www.nextbigfuture.com&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Prime Intellect raises $130M Series A at $1B valuation to build an open superintelligence stack</title>
+      <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-841ea9f43e10</link>
+      <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-841ea9f43e10</guid>
+      <pubDate>Mon, 05 Oct 2026 01:39:30 GMT</pubDate>
+      <description>&lt;p&gt;Prime Intellect raised $130 million in Series A funding at a $1 billion valuation to build what it calls the open superintelligence stack. The round was led by Radical Ventures with participation from Nvidia&amp;#39;s NVentures, Intel Capital and angel investors including Box CEO Aaron Levie and figures from Cloudflare. The company provides compute and tooling for training frontier AI models, positioning itself as infrastructure for open development.&lt;/p&gt;&lt;p&gt;Corroborated by 3 sources.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://pulse2.com/prime-intellect-raises-130-million-series-a-to-build-open-superintelligence-stack&quot; rel=&quot;noopener&quot;&gt;pulse2.com&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://seekingalpha.com/news/4612364-prime-intellect-raises-130m-at-1b-valuation-to-help-enterprises-train-ai-models&quot; rel=&quot;noopener&quot;&gt;seekingalpha.com&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://siliconangle.com/2026/07/08/prime-intellect-raises-130m-1b-valuation-ai-training-platform&quot; rel=&quot;noopener&quot;&gt;siliconangle.com&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Prime Intellect launches Prime Inference for frontier open models</title>
+      <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-9cfe1e2595c6</link>
+      <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-9cfe1e2595c6</guid>
+      <pubDate>Mon, 05 Oct 2026 01:39:30 GMT</pubDate>
+      <description>&lt;p&gt;Prime Intellect launched Prime Inference, offering serverless and reserved serving for frontier open models. The service is reported to run GLM-5.3 on NVIDIA GB200 hardware. It extends the company&amp;#39;s stack from training infrastructure into inference, giving open-model users a managed serving path that competes with closed-model APIs.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.marktechpost.com/2026/10/02/prime-intellect-launches-prime-inference-serverless-and-reserved-serving-for-frontier-open-models&quot; rel=&quot;noopener&quot;&gt;www.marktechpost.com&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>DeepSeek Harness v0.2 ships official desktop apps for macOS and Windows</title>
+      <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-5d9ce3393f8e</link>
+      <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-5d9ce3393f8e</guid>
+      <pubDate>Mon, 05 Oct 2026 01:39:24 GMT</pubDate>
+      <description>&lt;p&gt;DeepSeek released Harness v0.2, a free, MIT-licensed open-source desktop AI agent app for macOS and Windows, with Linux available via npm. The release adds a plugin manager and automation tasks for coding, file and data work. An alpha build, v0.2.1-alpha.1, introduces an experimental compatibility layer that runs Claude Code Mods as Harness plugins, plus a developer toolkit for agent-built plugins. The project is positioned against Anthropic&amp;#39;s Claude Cowork.&lt;/p&gt;&lt;p&gt;Corroborated by 5 sources.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://blockchain.news/ainews/deepseek-harness-launches-desktop-apps-now&quot; rel=&quot;noopener&quot;&gt;blockchain.news&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://cryptobriefing.com/deepseek-harness-v02-desktop-app-release&quot; rel=&quot;noopener&quot;&gt;cryptobriefing.com&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://pandaily.com/deepseek-harness-v0-2-1-alpha-1-claude-code-mods-compatibility-layer&quot; rel=&quot;noopener&quot;&gt;pandaily.com&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://technode.com/2026/08/14/against-claude-cowork-deepseek-opens-its-open-source-harness-to-developers&quot; rel=&quot;noopener&quot;&gt;technode.com&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.marktechpost.com/2026/10/03/deepseek-harness-v0-2-brings-official-desktop-apps-to-its-open-source-agent-harness&quot; rel=&quot;noopener&quot;&gt;www.marktechpost.com&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>New local runtime lets AI agents safely command desktop files, browser and email</title>
+      <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-b11759648099</link>
+      <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-b11759648099</guid>
+      <pubDate>Mon, 05 Oct 2026 01:38:58 GMT</pubDate>
+      <description>&lt;p&gt;A new local runtime aims to close the gap between agents that plan well and agents that can actually act on a user&amp;#39;s machine. It gives agents controlled access to desktop files, the browser and email while keeping execution local, addressing the trust and safety concerns that have kept many agent demos out of production. The approach reflects a broader push toward sandboxed, permissioned agent execution rather than unrestricted system access.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://bioengineer.org/new-local-runtime-lets-ai-agents-safely-command-your-desktop-files-browser-and-email&quot; rel=&quot;noopener&quot;&gt;bioengineer.org&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Software companies are shipping AI sales agents four times faster than any other industry</title>
+      <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-e949de7b40ec</link>
+      <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-e949de7b40ec</guid>
+      <pubDate>Mon, 05 Oct 2026 01:38:58 GMT</pubDate>
+      <description>&lt;p&gt;ZoomInfo reports that software companies are launching AI sales agents four times faster than other industries. The report attributes the gap to better data readiness and the complexity of software sales cycles, which reward automation. It is an early signal of where agent adoption is actually landing in production versus where it remains experimental.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.kansascity.com/news/business/article317457044.html&quot; rel=&quot;noopener&quot;&gt;www.kansascity.com&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>How much autonomy should a clinical AI agent have? Physicians push for task-specific permissions</title>
+      <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-f4fcd69609fb</link>
+      <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-f4fcd69609fb</guid>
+      <pubDate>Mon, 05 Oct 2026 01:38:58 GMT</pubDate>
+      <description>&lt;p&gt;Physicians and researchers are calling for tighter governance of clinical AI agents, arguing for task-specific permissions, risk-based review, clear stop rules and evidence drawn from real deployments. The debate centers on how much independent action a medical agent should be allowed before human sign-off is required, and how to encode those limits so they hold in practice. The proposals aim to keep autonomy proportional to clinical risk.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.healthcareitnews.com/news/how-much-autonomy-should-clinical-ai-agent-have&quot; rel=&quot;noopener&quot;&gt;www.healthcareitnews.com&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>AI side hustle and tools roundup for October 3, 2026</title>
+      <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-21a1e0bd6eaf</link>
+      <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-21a1e0bd6eaf</guid>
+      <pubDate>Mon, 05 Oct 2026 01:38:57 GMT</pubDate>
+      <description>&lt;p&gt;A daily digest curating AI side-hustle opportunities, tools and project markets, selecting what it considers the changes worth knowing from a fast-moving information stream. Rather than listing feature announcements, it focuses on items with practical implications for people building small AI-based income projects. It is representative of the large secondary ecosystem of AI newsletters and curation feeds.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://note.com/ai_life_lab61/n/n91bff832a755?hl=en&quot; rel=&quot;noopener&quot;&gt;note.com&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>ArXiv will ban researchers for a year over unchecked AI-generated submissions</title>
+      <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-292bf82ae7cb</link>
+      <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-292bf82ae7cb</guid>
+      <pubDate>Mon, 05 Oct 2026 01:38:57 GMT</pubDate>
+      <description>&lt;p&gt;ArXiv will ban researchers for one year if they submit papers showing obvious signs of unchecked AI generation, such as hallucinated references or leftover chatbot instructions. The policy targets the growing volume of low-effort &amp;#39;AI slop&amp;#39; preprints reaching the server. It is one of the first hard enforcement measures from a major research venue against unvetted generative content.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://thenextweb.com/news/arxiv-ai-slop-ban-researchers-preprint&quot; rel=&quot;noopener&quot;&gt;thenextweb.com&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>BootLoops 1.0: an open-source LLM harness for exact scientific calculation</title>
+      <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-435264283d7f</link>
+      <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-435264283d7f</guid>
+      <pubDate>Mon, 05 Oct 2026 01:38:57 GMT</pubDate>
+      <description>&lt;p&gt;Anthropic published a guest post by theoretical physicist Matthew Schwartz describing BootLoops, an open-source toolkit he built with Claude for exact calculation in science. Version 1.0 is presented as an LLM harness aimed at scientific work where approximate answers are not good enough. It is a concrete example of domain specialists building tooling around frontier models rather than waiting for lab-provided solutions.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.unite.ai/schwartz-releases-bootloops-1-0-an-open-source-llm-harness-for-science&quot; rel=&quot;noopener&quot;&gt;www.unite.ai&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Best open-source agent harnesses for local LLMs in 2026</title>
+      <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-6a6534ef1d1c</link>
+      <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-6a6534ef1d1c</guid>
+      <pubDate>Mon, 05 Oct 2026 01:38:57 GMT</pubDate>
+      <description>&lt;p&gt;A comparison of 11 open-source agent harnesses for running local LLMs, including OpenCode, Pi, Goose, Cline, OpenHands, Aider and Codex CLI. The roundup evaluates the tools that wrap local models with tool use, file editing and multi-step execution. It reflects how quickly a harness layer has formed between raw open models and practical agent workflows.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.marktechpost.com/2026/09/18/best-open-source-agent-harnesses-for-local-llms-in-2026&quot; rel=&quot;noopener&quot;&gt;www.marktechpost.com&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>OWASP releases 2026 Top 10 for LLM applications and a new agent control standard</title>
+      <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-7fe1458ac409</link>
+      <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-7fe1458ac409</guid>
+      <pubDate>Mon, 05 Oct 2026 01:38:57 GMT</pubDate>
+      <description>&lt;p&gt;The OWASP GenAI Security Project published its 2026 Top 10 for LLM Applications, alongside a debut Agent Control Standard and additional resources for securing generative and agentic AI. The community effort aims to give developers a shared vocabulary for the risks specific to LLM and agent deployments. The new agent control standard is notable as agents move from demos into systems with real permissions.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.morningstar.com/news/pr-newswire/20260902la38909/owasp-genai-security-project-releases-2026-top-10-for-llm-applications-debuts-agent-control-standard-and-new-resources-for-securing-generative-and-agentic-ai&quot; rel=&quot;noopener&quot;&gt;www.morningstar.com&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>The security and maintenance burden of running open-source LLMs locally</title>
+      <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-9ca84d2045b9</link>
+      <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-9ca84d2045b9</guid>
+      <pubDate>Mon, 05 Oct 2026 01:38:57 GMT</pubDate>
+      <description>&lt;p&gt;As of October 2, 2026, tools like Ollama have made running open-source and open-weight models locally far easier — but the security and operational decision-making around them has become harder, not easier. The piece examines the ongoing maintenance, patching and threat-modeling work that local deployments quietly require. It is a reminder that self-hosting trades vendor dependence for operational responsibility.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://note.com/ashineko_houston/n/nc41835d509cc?hl=en&quot; rel=&quot;noopener&quot;&gt;note.com&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Context compression reaches production: research cuts LLM input 16x without losing accuracy</title>
+      <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-d818441879be</link>
+      <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-d818441879be</guid>
+      <pubDate>Mon, 05 Oct 2026 01:38:57 GMT</pubDate>
+      <description>&lt;p&gt;Context windows have become a computational bottleneck as agents accumulate retrieved documents, reasoning traces and conversation history over long runs. New research claims context compression that reduces LLM input by 16x without an accuracy hit, a result the report describes as finally working in production. If it holds up, the technique would directly lower the memory and cost curve for long-running agentic workloads.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://venturebeat.com/data/context-compression-finally-works-in-production-new-research-cuts-llm-input-16x-without-the-accuracy-hit&quot; rel=&quot;noopener&quot;&gt;venturebeat.com&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Institute of Foundation Models releases fully open K2 Horizon models with weights, code and training data</title>
+      <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-cb16a6917468</link>
+      <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-cb16a6917468</guid>
+      <pubDate>Mon, 05 Oct 2026 01:38:56 GMT</pubDate>
+      <description>&lt;p&gt;The Institute of Foundation Models released the K2 Horizon family fully open, including weights, code and training data. The 0.9B, 3.7B and 7B variants are reported to set new state of the art in their size classes across reasoning, mathematics, coding and agentic tasks. Releasing training data alongside weights makes the family notable for reproducibility and auditability, not just benchmark scores.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.hpcwire.com/aiwire/2026/09/03/institute-of-foundation-models-releases-fully-open-k2-horizon-models-with-weights-code-and-training-data&quot; rel=&quot;noopener&quot;&gt;www.hpcwire.com&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Cloudflare releases Clef and Clef-flash, open-weight decision models that return probabilities, not text</title>
+      <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-d2b0e5c49bea</link>
+      <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-d2b0e5c49bea</guid>
+      <pubDate>Mon, 05 Oct 2026 01:38:56 GMT</pubDate>
+      <description>&lt;p&gt;Cloudflare released Clef and Clef-flash, open-weight Apache 2.0 models designed to output typed probabilities instead of generated text. The models target fast agent routing, where a system needs a calibrated decision about which path or tool to use rather than a prose answer. The release signals growing interest in small, specialized decision models as plumbing for larger agent architectures.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.marktechpost.com/2026/10/01/cloudflare-releases-clef-and-clef-flash&quot; rel=&quot;noopener&quot;&gt;www.marktechpost.com&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Aleph Alpha ships Kolibri, a 78.1B open-weight English-German MoE with just 3.46B active parameters</title>
+      <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-f375c18daa6e</link>
+      <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-f375c18daa6e</guid>
+      <pubDate>Mon, 05 Oct 2026 01:38:56 GMT</pubDate>
+      <description>&lt;p&gt;Aleph Alpha released Kolibri, an open-weight English-German mixture-of-experts model with 78.1B total parameters but only 3.46B active per token, plus a 1M-token context window. The sparse design targets strong bilingual capability at a fraction of the inference cost of a dense model of comparable size. It adds to a widening field of open-weight European models aimed at sovereign and multilingual deployments.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.marktechpost.com/2026/10/04/aleph-alpha-releases-kolibri-a-78-1b-open-weight-english-german-moe-model-with-only-3-46b-active-parameters&quot; rel=&quot;noopener&quot;&gt;www.marktechpost.com&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Project Meridian and the Vulcan frontier AI defense matrix: the push for an AI kill switch</title>
+      <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-37c2160b4f57</link>
+      <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-37c2160b4f57</guid>
+      <pubDate>Mon, 05 Oct 2026 01:38:55 GMT</pubDate>
+      <description>&lt;p&gt;A promotional roundup surveys &amp;#39;AI kill switch&amp;#39; cybersecurity developers and solutions, framing them against California&amp;#39;s Executive Order N-10-26, a Department of Defense global defensive shield, and the AI-119 Vulcan effort. The material mixes vendor marketing with policy developments around emergency controls on frontier AI. It illustrates how quickly kill-switch and containment concepts are moving from thought experiments into procurement and executive orders.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://finance.yahoo.com/technology/ai/articles/ai-kill-switch-project-meridian-112900584.html&quot; rel=&quot;noopener&quot;&gt;finance.yahoo.com&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Frontier AI keeps racing despite employee calls to slow down</title>
+      <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-9926831a6707</link>
+      <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-9926831a6707</guid>
+      <pubDate>Mon, 05 Oct 2026 01:38:55 GMT</pubDate>
+      <description>&lt;p&gt;Despite a July open letter from AI company employees urging frontier labs to slow development — a message echoed by Anthropic CEO Dario Amodei — major model releases have continued apace. The report documents the gap between public caution from insiders and the competitive dynamics driving labs forward. It underscores that voluntary slowdowns have so far had little visible effect on release cadence.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.theregister.com/ai-and-ml/2026/09/23/frontier-ai-keeps-racing-despite-calls-to-slow-down/5298448&quot; rel=&quot;noopener&quot;&gt;www.theregister.com&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Google&#39;s Gemini 4 Argon undercuts OpenAI and Anthropic on price</title>
+      <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-b2933ff5fec4</link>
+      <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-b2933ff5fec4</guid>
+      <pubDate>Mon, 05 Oct 2026 01:38:55 GMT</pubDate>
+      <description>&lt;p&gt;Google launched Gemini 4 Argon, a new AI model priced below comparable offerings from OpenAI and Anthropic. The rollout begins with trusted cybersecurity testers before broader availability. The move continues a pattern of price competition at the frontier, where capability gaps narrow and cost per token becomes a primary lever for winning enterprise and developer adoption.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://coincentral.com/googles-new-ai-model-just-undercut-openai-and-anthropic-on-price&quot; rel=&quot;noopener&quot;&gt;coincentral.com&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>AI model launch timeline: tracking every major announcement</title>
+      <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-cd844cb14bd5</link>
+      <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-cd844cb14bd5</guid>
+      <pubDate>Mon, 05 Oct 2026 01:38:55 GMT</pubDate>
+      <description>&lt;p&gt;With labs announcing new models almost weekly, this roundup attempts to maintain a single timeline of major AI model announcements. It notes how hard it has become to track which model beats which, and when. Such trackers are becoming a practical reference as release volume outpaces any individual&amp;#39;s ability to follow the field.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://techpp.com/roundup/ai-model-launch-timeline&quot; rel=&quot;noopener&quot;&gt;techpp.com&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Why AI model releases feel nonstop — much of it is repackaging, not breakthroughs</title>
+      <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-dc17156c6c72</link>
+      <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-dc17156c6c72</guid>
+      <pubDate>Mon, 05 Oct 2026 01:38:55 GMT</pubDate>
+      <description>&lt;p&gt;The relentless cadence of AI model announcements is only partly explained by genuine capability jumps, according to this analysis. OpenAI and Anthropic are shipping more models, but a large share of the acceleration comes from repackaging existing advances and re-pricing them for new tiers and use cases. The piece is a useful corrective for anyone trying to read signal into every launch.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.fastcompany.com/91611158/why-ai-model-releases-feel-nonstop&quot; rel=&quot;noopener&quot;&gt;www.fastcompany.com&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>From CUDA to MLX: K-Search Translates Decades of Kernel Expertise to Apple Silicon</title>
       <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-04.html#s-744cfb89b4dd</link>
       <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-04.html#s-744cfb89b4dd</guid>
       <pubDate>Wed, 29 Jul 2026 09:00:00 GMT</pubDate>
       <description>&lt;p&gt;BAIR researchers present K-Search, a system that maps CUDA optimization knowledge onto architecture-native MLX strategies for Apple Silicon rather than copying kernels instruction-for-instruction. The work argues that GPU kernel expertise accumulated over years of CUDA development can be systematically translated into a different accelerator ecosystem, offering a path to port high-performance ML kernels to Apple hardware without rebuilding optimization intuition from scratch.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search&quot; rel=&quot;noopener&quot;&gt;bair.berkeley.edu&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>From CUDA to MLX: K-Search Translates Decades of Kernel Expertise to Apple Silicon</title>
-      <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-744cfb89b4dd</link>
-      <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-744cfb89b4dd</guid>
-      <pubDate>Wed, 29 Jul 2026 09:00:00 GMT</pubDate>
-      <description>&lt;p&gt;BAIR researchers present K-Search, a system that ports hard-won CUDA kernel optimization knowledge to Apple Silicon rather than copying it instruction-for-instruction. The work maps CUDA optimization strategies onto architecture-native MLX equivalents, arguing that as new accelerator architectures proliferate, the real challenge is transferring accumulated kernel-engineering expertise across hardware stacks instead of rewriting it from scratch.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search&quot; rel=&quot;noopener&quot;&gt;bair.berkeley.edu&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction</title>
@@ -31,25 +220,11 @@
       <description>&lt;p&gt;A BAIR post introduces ABBEL, an approach that trains large language models to revise their beliefs as new evidence arrives, targeting efficient long-horizon interaction. Rather than re-deriving conclusions from full context at each step, the method teaches models to maintain and update an explicit belief state, which the authors position as key to keeping multi-turn agents accurate and computationally tractable over extended tasks.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://bair.berkeley.edu/blog/2026/07/26/abbel&quot; rel=&quot;noopener&quot;&gt;bair.berkeley.edu&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction</title>
-      <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-226026224cdb</link>
-      <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-226026224cdb</guid>
-      <pubDate>Sun, 26 Jul 2026 09:00:00 GMT</pubDate>
-      <description>&lt;p&gt;A new BAIR post introduces ABBEL, a method for training large language models to revise their beliefs as new information arrives during extended interactions. The approach targets long-horizon tasks where agents must track changing state over many turns, aiming to make belief updating a learned capability rather than an implicit byproduct of prompting.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://bair.berkeley.edu/blog/2026/07/26/abbel&quot; rel=&quot;noopener&quot;&gt;bair.berkeley.edu&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
       <title>Intelligence is Free, Now What? Data Systems for, of, and by Agents</title>
       <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-04.html#s-47d89a541c7b</link>
       <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-04.html#s-47d89a541c7b</guid>
       <pubDate>Tue, 07 Jul 2026 09:00:00 GMT</pubDate>
       <description>&lt;p&gt;As GPT-4-class capabilities become dramatically cheaper, a BAIR essay asks what changes when intelligence is effectively free. The authors argue the bottleneck shifts to data systems — infrastructure built for, of, and by AI agents — and sketch how agent-driven workloads will reshape database design, query patterns, and the economics of software, echoing Lincoln&amp;#39;s framing of systems of, by, and for their users.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://bair.berkeley.edu/blog/2026/07/07/intelligence-is-free-now-what&quot; rel=&quot;noopener&quot;&gt;bair.berkeley.edu&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Intelligence is Free, Now What? Data Systems for, of, and by Agents</title>
-      <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-47d89a541c7b</link>
-      <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-47d89a541c7b</guid>
-      <pubDate>Tue, 07 Jul 2026 09:00:00 GMT</pubDate>
-      <description>&lt;p&gt;As GPT-4-class capabilities become dramatically cheaper, BAIR researchers argue the bottleneck shifts from model cost to data infrastructure. The post sketches a research agenda for data systems built for, of, and by AI agents — covering how agents consume data, how data about agent behavior should be managed, and how agents themselves can construct and curate the systems they rely on.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://bair.berkeley.edu/blog/2026/07/07/intelligence-is-free-now-what&quot; rel=&quot;noopener&quot;&gt;bair.berkeley.edu&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2026 BAIR Graduate Showcase Celebrates the Lab&#39;s New Ph.D. Class</title>
@@ -59,25 +234,11 @@
       <description>&lt;p&gt;The Berkeley Artificial Intelligence Research Lab congratulates its class of 2026 Ph.D. graduates, highlighting a group whose curiosity, creativity, and persistence shaped the lab&amp;#39;s research output. The annual showcase spotlights the students&amp;#39; contributions across AI subfields as they move on to academic and industry positions, marking the lab&amp;#39;s yearly milestone in training the next generation of AI researchers.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://bair.berkeley.edu/blog/2026/07/01/grads-2026&quot; rel=&quot;noopener&quot;&gt;bair.berkeley.edu&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>2026 BAIR Graduate Showcase Celebrates the Lab&#39;s New Ph.D. Class</title>
-      <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-295c66d67784</link>
-      <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-295c66d67784</guid>
-      <pubDate>Wed, 01 Jul 2026 09:00:00 GMT</pubDate>
-      <description>&lt;p&gt;The Berkeley Artificial Intelligence Research lab marks its class of 2026, highlighting the Ph.D. graduates and the range of AI research areas their dissertations span. The annual showcase serves as a snapshot of the lab&amp;#39;s current research directions and the students moving into academia and industry.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://bair.berkeley.edu/blog/2026/07/01/grads-2026&quot; rel=&quot;noopener&quot;&gt;bair.berkeley.edu&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
       <title>Adaptive Parallel Reasoning: A New Paradigm for Efficient Inference Scaling</title>
       <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-04.html#s-74c2d9384314</link>
       <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-04.html#s-74c2d9384314</guid>
       <pubDate>Fri, 08 May 2026 09:00:00 GMT</pubDate>
       <description>&lt;p&gt;BAIR researchers propose Adaptive Parallel Reasoning (APR), which scales inference by running reasoning branches in parallel and allocating compute adaptively rather than uniformly. The approach aims to capture the accuracy gains of test-time scaling while avoiding the cost of brute-force sequential chains, positioning parallel, budget-aware reasoning as the next paradigm for efficient inference.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning&quot; rel=&quot;noopener&quot;&gt;bair.berkeley.edu&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Adaptive Parallel Reasoning: A New Paradigm for Efficient Inference Scaling</title>
-      <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-74c2d9384314</link>
-      <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-74c2d9384314</guid>
-      <pubDate>Fri, 08 May 2026 09:00:00 GMT</pubDate>
-      <description>&lt;p&gt;BAIR researchers propose adaptive parallel reasoning as an alternative to simply scaling sequential chain-of-thought at inference time. The approach allocates parallel reasoning effort dynamically, aiming to capture the accuracy gains of test-time compute scaling while cutting the latency and token costs that make purely sequential scaling expensive.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning&quot; rel=&quot;noopener&quot;&gt;bair.berkeley.edu&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Gradient-based Planning for World Models at Longer Horizons</title>
@@ -87,25 +248,11 @@
       <description>&lt;p&gt;The GRASP work from BAIR tackles planning with learned world models over longer horizons using gradient-based optimization. The authors report results tables comparing their method against baselines, addressing a central weakness of model-based reinforcement learning: plans that degrade as the rollout horizon grows, which limits real-world deployment of world-model agents.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://bair.berkeley.edu/blog/2026/04/20/grasp&quot; rel=&quot;noopener&quot;&gt;bair.berkeley.edu&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>GRASP: Gradient-based Planning for World Models at Longer Horizons</title>
-      <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-8d7af329ff25</link>
-      <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-8d7af329ff25</guid>
-      <pubDate>Mon, 20 Apr 2026 09:00:00 GMT</pubDate>
-      <description>&lt;p&gt;A BAIR post presents GRASP, a gradient-based planning method for world models that extends effective planning horizons. The work targets the degradation that occurs when model-based agents plan far into the future, using gradient information to search action sequences more effectively than prior sampling-based approaches.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://bair.berkeley.edu/blog/2026/04/20/grasp&quot; rel=&quot;noopener&quot;&gt;bair.berkeley.edu&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
       <title>Identifying Interactions at Scale for LLMs</title>
       <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-04.html#s-cdccc1ac3a9b</link>
       <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-04.html#s-cdccc1ac3a9b</guid>
       <pubDate>Fri, 13 Mar 2026 09:00:00 GMT</pubDate>
       <description>&lt;p&gt;BAIR presents SPEX, a method for identifying interactions at scale inside large language models. Understanding the behavior of complex ML systems remains a critical open challenge, and the work contributes to interpretability research by finding and characterizing the interactions that shape LLM outputs, offering a more scalable route to mechanistic understanding of large models.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://bair.berkeley.edu/blog/2026/03/13/spex&quot; rel=&quot;noopener&quot;&gt;bair.berkeley.edu&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Identifying Interactions at Scale for LLMs</title>
-      <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-cdccc1ac3a9b</link>
-      <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-cdccc1ac3a9b</guid>
-      <pubDate>Fri, 13 Mar 2026 09:00:00 GMT</pubDate>
-      <description>&lt;p&gt;BAIR researchers introduce SPEX, a method for identifying interactions among components in large language models at scale. Understanding how internal features and circuits interact is a central challenge for interpretability, and the work aims to make such interaction analysis tractable for models far larger than those typically studied in detail.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://bair.berkeley.edu/blog/2026/03/13/spex&quot; rel=&quot;noopener&quot;&gt;bair.berkeley.edu&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Information-Driven Design of Imaging Systems</title>
@@ -115,13 +262,6 @@
       <description>&lt;p&gt;BAIR researchers describe an information-theoretic approach to co-designing imaging systems, where an encoder (the optical system) maps objects to noiseless images that noise then corrupts into measurements. Their information estimator uses only the noisy measurements and a noise model to quantify how well a design captures the scene, enabling optics and reconstruction algorithms to be optimized jointly rather than separately.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging&quot; rel=&quot;noopener&quot;&gt;bair.berkeley.edu&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>Information-Driven Design of Imaging Systems</title>
-      <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-fdfd3d815dab</link>
-      <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-fdfd3d815dab</guid>
-      <pubDate>Sat, 10 Jan 2026 09:00:00 GMT</pubDate>
-      <description>&lt;p&gt;BAIR researchers describe an information-theoretic framework for co-designing imaging systems, where an optical encoder maps objects to noiseless images that noise then corrupts into measurements. Their estimator uses only the noisy measurements and a noise model to quantify how well a design captures task-relevant information, enabling optics and reconstruction algorithms to be optimized jointly.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging&quot; rel=&quot;noopener&quot;&gt;bair.berkeley.edu&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
       <title>RL without TD Learning: A Divide-and-Conquer Alternative</title>
       <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-04.html#s-092461451a5e</link>
       <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-04.html#s-092461451a5e</guid>
@@ -129,25 +269,11 @@
       <description>&lt;p&gt;A BAIR post introduces a reinforcement learning algorithm built on divide and conquer rather than temporal-difference learning. Unlike traditional TD methods, which bootstrap value estimates from successive states, the proposed paradigm decomposes the problem and avoids bootstrapping altogether, offering an alternative foundation for credit assignment in sequential decision making.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning&quot; rel=&quot;noopener&quot;&gt;bair.berkeley.edu&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>RL Without TD Learning: A Divide-and-Conquer Alternative</title>
-      <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-092461451a5e</link>
-      <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-092461451a5e</guid>
-      <pubDate>Sat, 01 Nov 2025 09:00:00 GMT</pubDate>
-      <description>&lt;p&gt;A BAIR post introduces a reinforcement learning algorithm built on a divide-and-conquer paradigm rather than temporal-difference learning. The approach departs from the TD bootstrapping that underpins most modern value-based RL, offering an alternative route to credit assignment across long episodes.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning&quot; rel=&quot;noopener&quot;&gt;bair.berkeley.edu&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
       <title>What Exactly Does word2vec Learn? A Theoretical Account</title>
       <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-04.html#s-f9fe76b83ee8</link>
       <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-04.html#s-f9fe76b83ee8</guid>
       <pubDate>Mon, 01 Sep 2025 09:00:00 GMT</pubDate>
       <description>&lt;p&gt;BAIR researchers revisit word2vec to explain precisely what the algorithm learns and how. They frame the question as understanding representation learning in a minimal yet interesting language modeling task, using theory to characterize the embeddings that emerge from the classic method — work that connects foundational NLP results to modern questions about what language models represent internally.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory&quot; rel=&quot;noopener&quot;&gt;bair.berkeley.edu&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>What Exactly Does word2vec Learn?</title>
-      <link>https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-f9fe76b83ee8</link>
-      <guid isPermaLink="true">https://slophouse-cc.github.io/newsbot/editions/ai/2026-10-05.html#s-f9fe76b83ee8</guid>
-      <pubDate>Mon, 01 Sep 2025 09:00:00 GMT</pubDate>
-      <description>&lt;p&gt;BAIR researchers revisit word2vec to give a theoretical account of what the algorithm actually learns and why. By analyzing representation learning in a minimal but non-trivial language modeling task, the work aims to explain the properties of the embeddings that made word2vec a foundational result in NLP.&lt;/p&gt;&lt;p&gt;Single-source.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory&quot; rel=&quot;noopener&quot;&gt;bair.berkeley.edu&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
